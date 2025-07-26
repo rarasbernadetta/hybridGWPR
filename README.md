@@ -10,4 +10,4 @@ This hybridGWPR repository includes:
 
 **No GWPR and hybrid GWPR (standalone & stacking)**: contain standalone algorithm process code and stacking algorithm without and with GWPR data code (.ipynb)  
 
-**White Sugar Data MetaData**: contain White Sugar Data explanation  
+**White Sugar Data**: contain White Sugar Data explanation  (.md)
