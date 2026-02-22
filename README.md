@@ -15,3 +15,5 @@ This hybridGWPR repository includes:
 **NoFoldResult**: contain Ablation Performance comparison between the hybrid GWPR–MLP–LSTM–ARIMA–SARIMA model with coefficients and without coefficients (residuals only), and performance comparison between MLP and TCN as meta-learners   (.zip)
 
 **ForwardChainingFoldResult**: contain Performance comparison of the top three non-fold and standalone models using forward chaining; comparison of predictions versus actual values using forward chaining; regime shift results before COVID-19, during COVID-19, and post-COVID-19; and the results of the Wilcoxon Signed-Rank Test   (.zip)
+
+**gwpr-price-major-revision**: contain GWPR price major revision code, please only see version 2 and 3 (.ipynb)  
