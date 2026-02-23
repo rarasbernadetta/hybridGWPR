@@ -16,4 +16,6 @@ This hybridGWPR repository includes:
 
 **ForwardChainingFoldResult**: contain Performance comparison of the top three non-fold and standalone models using forward chaining; comparison of predictions versus actual values using forward chaining; regime shift results before COVID-19, during COVID-19, and post-COVID-19; and the results of the Wilcoxon Signed-Rank Test   (.zip)
 
-**gwpr-price-major-revision**: contain GWPR price major revision code, please only see version 2 and 3 (.ipynb)  
+**gwpr-price-major-revision-with fold (forward chaining).ipynb**: contain GWPR price major revision code for forward chaining fold splitting  (.ipynb)  
+
+**gwpr-price-major-revision-no fold.ipynb**: contain GWPR price major revision code for no fold splitting (training:test:validation = 80%:10%:10%)  (.ipynb)  
